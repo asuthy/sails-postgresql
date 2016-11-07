@@ -1,7 +1,7 @@
 {
     "name": "sails-postgresql",
     "description": "a postgreSQL adapter for Waterline and Sails.js",
-    "version": "0.11.2",
+    "version": "0.11.4",
     "author": "Cody Stoltman <particlebanana@gmail.com>",
     "url": "http://github.com/balderdashy/sails-postgresql",
     "keywords": [
@@ -17,10 +17,10 @@
     "dependencies": {
         "async": "1.5.2",
         "lodash": "3.10.1",
-        "pg": "4.4.4",
+        "pg": "4.5.5",
         "waterline-cursor": "0.0.6",
         "waterline-errors": "0.10.1",
-        "waterline-sequel": "0.5.6"
+        "waterline-sequel": "0.5.7"
     },
     "devDependencies": {
         "captains-log": "0.11.11",
